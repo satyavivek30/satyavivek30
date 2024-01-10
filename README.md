@@ -1,4 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m @satyavivek30
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me https://www.linkedin.com/in/satya-vivek-jaiswal/
+
+<!---
+satyavivek-code/satyavivek-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 💞️ I’m looking to collaborate on ...
+--->
 
 <!--
 **satyavivek30/satyavivek30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
